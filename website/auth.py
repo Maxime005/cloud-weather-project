@@ -37,8 +37,6 @@ def logout():
 
 @auth.route('/sign-up', methods=['GET', 'POST'])
 def sign_up():
-    test_hash = generate_password_hash('test_password', method='sha256')
-    print(test_hash)
 
     if request.method == 'POST':
         email = request.form.get('email')
