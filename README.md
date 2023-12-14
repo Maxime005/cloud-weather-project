@@ -21,6 +21,12 @@ pip install requests
 We were unfortunatelly incapable to fix the last bug of our code. This makes it impossible to signup an account on the website.
 This forced us during the video presentation to to remove the login requirement in order to be able to present the main page of our website.
 
+## Participants of the project
+Maxime Foucault (180303973)
+Naman Ganatra (230724091)
+Jumma teli (231034661)
+Prem Dhanasekaran (230856808)
+
 ## Issue Tracker
 
 - Report Issues or Request Features: https://github.com/Maxime005/cloud-weather-project/new/master?readme=1)
