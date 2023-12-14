@@ -7,33 +7,35 @@ The Weather Cloud Application is an easy-to-use weather application designed to 
 ## Features
 
 - **Real-Time Weather Data: Get up-to-date weather information from reliable sources.
-- **Location-Based Forecast: Receive personalized weather forecasts based on your location.
+- **Location-Based Forecast: Receive personalized weather forecasts based on the entered location.
 - **User Interface: A clean and user-friendly design for easy navigation.
 
+## pip istalls to make before running the code
+Before being able to run the code the user will have to enter the following installs on his terminal:
+pip install flask
+pip install flask-login
+pip install flask-sqlalchemy
+pip install requests
 
-##Issue Tracker
-Report Issues or Request Features: Link to Issueshttps://github.com/Maxime005/cloud-weather-project/new/master?readme=1)
+## Bug
+We were unfortunatelly incapable to fix the last bug of our code. This makes it impossible to signup an account on the website.
+This forced us during the video presentation to to remove the login requirement in order to be able to present the main page of our website.
 
-### Issue Tracker
+## Issue Tracker
 
-- Report Issues or Request Features: Link to Issueshttps://github.com/Maxime005/cloud-weather-project/new/master?readme=1)
+- Report Issues or Request Features: https://github.com/Maxime005/cloud-weather-project/new/master?readme=1)
 
-### Contact Information
+## Contact Information
 For inquiries related to the project, please reach out to the project maintainers:
-
 
 **Naman Manish Gantara
 Email: [ec23607@qmul.ac.uk]
-GitHub:
 
 **Maxime foucault
 Email: [ec23411@qmul.ac.uk]
-GitHub:
 
 **Prem Armstrong
 Email: [ec231009@qmul.ac.uk]
-GitHub:
 
 **Jumma Mohammad Teli
 Email: [ec23683@qmul.ac.uk]
-GitHub:
