@@ -23,8 +23,11 @@ This forced us during the video presentation to to remove the login requirement 
 
 ## Participants of the project
 Maxime Foucault (180303973)
+
 Naman Ganatra (230724091)
+
 Jumma teli (231034661)
+
 Prem Dhanasekaran (230856808)
 
 ## Issue Tracker
