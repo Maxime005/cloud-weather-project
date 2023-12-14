@@ -21,18 +21,19 @@ Report Issues or Request Features: Link to Issueshttps://github.com/Maxime005/cl
 ### Contact Information
 For inquiries related to the project, please reach out to the project maintainers:
 
-**Naman Manish Gantara
 
+**Naman Manish Gantara
 Email: [ec23607@qmul.ac.uk]
 GitHub:
-**Maxime foucault
 
+**Maxime foucault
 Email: [ec23411@qmul.ac.uk]
 GitHub:
-**Prem Armstrong
 
+**Prem Armstrong
 Email: [ec231009@qmul.ac.uk]
 GitHub:
-**Jumma Mohammad Teli
 
+**Jumma Mohammad Teli
 Email: [ec23683@qmul.ac.uk]
+GitHub:
