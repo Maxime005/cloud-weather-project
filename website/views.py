@@ -12,7 +12,7 @@ views = Blueprint('views',__name__)
 OPENWEATHER_API_KEY = '1ad5794b93b39b005cf9d22225230024'
 
 @views.route('/weather', methods=['GET', 'POST'])
-@login_required
+#@login_required
 def weather():
     if request.method == 'POST':
         city = request.form['city']
